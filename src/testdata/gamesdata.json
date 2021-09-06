@@ -1,0 +1,180 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "gameTitle": "Hot Line",
+      "name": "hotline",
+      "isLargeSize": false,
+      "isNew": true,
+      "highLimit": true
+    },
+    {
+      "id": 2,
+      "gameTitle": "Neon Jungle",
+      "name": "neonJungle",
+      "isLargeSize": false,
+      "isNew": true,
+      "highLimit": true
+    },
+    {
+      "id": 3,
+      "gameTitle": "3 Hit Pay",
+      "name": "threeHitPay",
+      "isLargeSize": true,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 4,
+      "gameTitle": "Day of the Dead",
+      "name": "dayOfTheDead",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 5,
+      "gameTitle": "Dr Jekyll and Mr Hyde",
+      "name": "jekyllHyde",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 6,
+      "gameTitle": "Day of the Dead",
+      "name": "dayOfTheDead",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 7,
+      "gameTitle": "Sea of Tranquility",
+      "name": "seaOfTranquility",
+      "isLargeSize": false,
+      "isNew": true,
+      "highLimit": false
+    },
+    {
+      "id": 8,
+      "gameTitle": "Aloha",
+      "name": "aloha",
+      "isLargeSize": false,
+      "isNew": true,
+      "highLimit": false
+    },
+    {
+      "id": 9,
+      "gameTitle": "Dr Jekyll and Mr Hyde",
+      "name": "jekyllHyde",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 10,
+      "gameTitle": "Day of the Dead",
+      "name": "dayOfTheDead",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 11,
+      "gameTitle": "Dr Jekyll and Mr Hyde",
+      "name": "jekyllHyde",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 12,
+      "gameTitle": "Fruit Spin",
+      "name": "fruitSpin",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 13,
+      "gameTitle": "Jack Hammer",
+      "name": "jackHammer",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 14,
+      "gameTitle": "Spinata Grande",
+      "name": "spinataGrande",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 15,
+      "gameTitle": "Sugar Smash",
+      "name": "sugarSmash",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 16,
+      "gameTitle": "Jumanji",
+      "name": "jumanji",
+      "isLargeSize": true,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 17,
+      "gameTitle": "Fa Fa Twins",
+      "name": "fafaTwins",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 18,
+      "gameTitle": "Smokin Hot Gems",
+      "name": "smokinHotGems",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 19,
+      "gameTitle": "Gonzos Quest",
+      "name": "gonzosQuest",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 20,
+      "gameTitle": "Hot Line",
+      "name": "hotline",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 21,
+      "gameTitle": "Fruit Spin",
+      "name": "fruitSpin",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    },
+    {
+      "id": 22,
+      "gameTitle": "Spinata Grande",
+      "name": "spinataGrande",
+      "isLargeSize": false,
+      "isNew": false,
+      "highLimit": false
+    }
+  ]
+}

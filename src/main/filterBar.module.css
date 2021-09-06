@@ -1,0 +1,37 @@
+.filterContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.filterContainer input {
+  border-radius: 15px;
+  padding: 5px 15px;
+  margin-left: 2rem;
+  outline: none;
+}
+
+.optionWrapper {
+  text-align: center;
+  background: none;
+  border: none;
+  margin-left: 1rem;
+  padding: 0.5rem;
+}
+
+.isSelected {
+  color: cornflowerblue;
+  background-color: #c9c9c9;
+}
+
+.searchContainer {
+  position: relative;
+}
+
+.searchIconWrapper {
+  background-color: #494949;
+  border-radius: 15px;
+  position: absolute;
+  top: 0;
+  right: 3px;
+}

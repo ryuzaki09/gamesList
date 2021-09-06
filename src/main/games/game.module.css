@@ -1,0 +1,29 @@
+.gameContainer {
+  position: relative;
+}
+
+.isNew {
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  width: 20%;
+  height: auto;
+}
+
+.highLimit {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  width: 20%;
+  height: auto;
+}
+
+.gameIcon {
+  width: 100%;
+  height: auto;
+}
+
+.largeContainer {
+  grid-column: auto / span 2;
+  grid-row: auto / span 2;
+}
